@@ -1,5 +1,4 @@
 # PERN Boilerplate
-[Demo Website](https://simple-pern-boilerplate.herokuapp.com/).
 
 A simple boilerplate application built using the PERN stack. On this application, a user can Register, Login and browse private pages that are accessible to only logged in users. It should be possible to build on this project to build more complex applications.
 
